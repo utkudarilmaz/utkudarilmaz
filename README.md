@@ -4,14 +4,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://github.com/utkudarilmaz">
-    <img src="https://github-profile-trophy.vercel.app/?username=utkudarilmaz&theme=dracula&no-frame=true&no-bg=true&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
-  </a>
-</div>
-
-###
-
 <h3 align="left">What I Do</h3>
 
 - Design and implement scalable cloud and system architectures
@@ -24,7 +16,6 @@
 
 <h3 align="left">Tech Stack</h3>
 
-**Infrastructure & Cloud**
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes"  />
   <img width="12" />
@@ -45,10 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="30" alt="digitalocean"  />
-</div>
-
-**Operating Systems**
-<div align="left">
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu"  />
@@ -56,13 +44,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" height="30" alt="centos"  />
-</div>
-
-**CI/CD & GitOps**
-<div align="left">
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="30" alt="argocd"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flux/flux-original.svg" height="30" alt="flux"  />
+  <img src="https://cdn.simpleicons.org/flux/5468FF" height="30" alt="flux"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="30" alt="jenkins"  />
   <img width="12" />
@@ -71,10 +56,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="30" alt="bitbucket"  />
-</div>
-
-**Orchestration & Networking**
-<div align="left">
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/helm/helm-original.svg" height="30" alt="helm"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/istio/466BB0" height="30" alt="istio"  />
@@ -85,15 +67,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/traefik/24A1C1" height="30" alt="traefik"  />
+  <img src="https://cdn.simpleicons.org/traefikproxy/24A1C1" height="30" alt="traefik"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/consul/F24C53" height="30" alt="consul"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/vault/FFEC6E" height="30" alt="vault"  />
-</div>
-
-**Observability**
-<div align="left">
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="30" alt="prometheus"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/thanos/6D41FF" height="30" alt="thanos"  />
@@ -111,10 +90,7 @@
   <img src="https://cdn.simpleicons.org/elasticsearch/005571" height="30" alt="elasticsearch"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/fluentd/0E83C8" height="30" alt="fluentd"  />
-</div>
-
-**Databases & Messaging**
-<div align="left">
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql"  />
@@ -126,10 +102,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="30" alt="kafka"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/etcd/419EDA" height="30" alt="etcd"  />
-</div>
-
-**Languages & Runtimes**
-<div align="left">
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python"  />
@@ -139,10 +112,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs"  />
-</div>
-
-**Collaboration**
-<div align="left">
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="30" alt="confluence"  />
@@ -172,5 +142,9 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
