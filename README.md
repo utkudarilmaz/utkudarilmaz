@@ -1,6 +1,6 @@
 <h2 align="left">Hi! I'm Utku</h2>
 
-<p align="left">DevOps Engineer with 7+ years of experience, currently working as a digital nomad.<br><br>I specialize in designing scalable cloud architectures, building CI/CD pipelines, and fostering DevOps culture across teams. My experience spans startups, SaaS companies, multi-client service providers, and government projects.</p>
+<p align="left">DevOps Engineer with 8+ years of experience, currently working as a digital nomad.<br><br>I specialize in designing scalable cloud architectures, building CI/CD pipelines, and fostering DevOps culture across teams. My experience spans startups, SaaS companies, multi-client service providers, and government projects.</p>
 
 ###
 
